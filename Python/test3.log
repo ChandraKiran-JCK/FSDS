@@ -1,0 +1,18 @@
+2025-12-11 20:29:18,116 - INFO - function call start
+2025-12-11 20:29:18,117 - INFO - divbyzero function start with value 4 and 5 
+2025-12-11 20:29:18,118 - INFO - function exected sucessfully with result as 0.8
+2025-12-11 20:29:18,119 - INFO - divbyzero function start with value 4 and 0 
+2025-12-11 20:29:18,119 - ERROR - error occureddivision by zero
+2025-12-11 20:29:18,120 - INFO - function call end
+2025-12-11 20:30:10,318 - INFO - function call start
+2025-12-11 20:30:10,319 - INFO - divbyzero function start with value 4 and 5 
+2025-12-11 20:30:10,319 - INFO - function exected sucessfully with result as 0.8
+2025-12-11 20:30:10,319 - INFO - divbyzero function start with value 4 and 0 
+2025-12-11 20:30:10,320 - ERROR - error occured division by zero
+2025-12-11 20:30:10,320 - INFO - function call end
+2025-12-11 20:32:44,267 - INFO - function call start
+2025-12-11 20:32:44,268 - INFO - divbyzero function start with value 4 and 5 
+2025-12-11 20:32:44,268 - INFO - function exected sucessfully with result as 0.8
+2025-12-11 20:32:44,268 - INFO - divbyzero function start with value 4 and 0 
+2025-12-11 20:32:44,268 - ERROR - error occured division by zero
+2025-12-11 20:32:44,268 - INFO - function call end

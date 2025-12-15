@@ -1,0 +1,24 @@
+WARNING:root:This is my warning log
+ERROR:root:This is my error log
+WARNING:root:This is my warning log
+ERROR:root:This is my error log
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 0207c2b0-2668-4396-b96b-22332e507cec
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: aa6a545f-11b8-45d3-a0ee-1204f746fda7
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 4fb673ea-7303-4996-b8d9-2709fc19b573
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: ed8a5165-eb0e-4e7e-9fa1-a4650f5cc2c2
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: c874429d-b8ee-4b8f-8539-c7c84482c048
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: afd00e78-3d9f-4558-84f3-d16148545a2f
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: f91912a8-293a-444c-aed8-401215493739
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 514b3769-f8f4-4f9b-8e8f-dd51558c2dfd
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: b6750d7b-b3e6-47cb-8e58-e0845083a559
+ERROR:ipykernel.comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: 1cafa1b1-8c33-45e0-9a9d-d3f904085319

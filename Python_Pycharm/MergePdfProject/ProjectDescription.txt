@@ -1,0 +1,10 @@
+1. create GUI for user to enter the location.
+2. in that location list down all the files available.
+3. search for pdf files.
+4. if pdf_files_count <= 0 then do nothing ,
+   else merge all the pdf files available and create a
+   new final merged pdf.
+
+5. use file handling , exception handling , logging , modular coding ...
+6. GUI -> use kivy/tkinter python library.
+
